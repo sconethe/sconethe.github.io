@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sconethe.github.io/sitemap.html.gz
+Sitemap: https://sconethe.github.io/app/sitemap.html.gz
+Sitemap: https://sconethe.github.io/assets/sitemap.html.gz
+Sitemap: https://sconethe.github.io/css/sitemap.html.gz
+Sitemap: https://sconethe.github.io/includes/sitemap.html.gz
+Sitemap: https://sconethe.github.io/item/sitemap.html.gz
+Sitemap: https://sconethe.github.io/src/sitemap.html.gz
